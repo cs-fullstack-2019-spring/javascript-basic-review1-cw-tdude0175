@@ -24,7 +24,7 @@ for(var numstr = 1;numstr <=num1; numstr++)
     {
         console.log("BUZZ");
     }
-    else if (Divis_3 === 0)
+    else if (Divis_3 === 0 )
     {
         console.log("FIZZ");
     }

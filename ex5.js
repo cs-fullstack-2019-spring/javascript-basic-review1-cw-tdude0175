@@ -26,5 +26,5 @@ do
         }
     }while(isNaN(LOANAMT) && isNaN(NUMMONTHS));
 //how to get console to pick up on not a number?
-// parseInt used to make code more preety,
+// parseInt used to make code more pretty,
 // Without parseInt will return repeating decimals, same can be said for parseFloat.
