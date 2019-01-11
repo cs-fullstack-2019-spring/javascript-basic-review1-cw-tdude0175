@@ -1,6 +1,6 @@
 # JavaScript Review Basics 1 CW
 
-### Create a new *external* JavaScript file for each exercise. Modify the provided ```index.html``` file to point to the individual JavaScript file to test a given solution.
+### Create a new *external* JavaScript file for each exercise. Create an ```index.html``` file and then use ```<script src='YOURFILE.JS'></script>``` to point to the individual JavaScript file so you can test a given solution.
 
 #### Exercise 1
 Print ```Hello World``` in the console
